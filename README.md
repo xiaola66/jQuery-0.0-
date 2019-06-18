@@ -1,6 +1,6 @@
 # jQuery-0.0-
 小米官网（比较完整，功能性多）<br/>
-第一部分截图：
+<strong>第一部分截图：</strong>
 ![image](https://github.com/xiaola66/xiaomi/blob/master/xiaomi1.png)
 隐藏商品列表显示：
 ![image](https://github.com/xiaola66/xiaomi/blob/master/xiaomi2.png)
